@@ -1,5 +1,6 @@
----
-### Hi, I'm Dewa Raka Krisna Saputra 👋
+# Hi, I'm Dewa Raka Krisna Saputra 👋
+
+🚀 **Turning data into actionable insights** | Passionate about solving business challenges through automation and analytics
 
 - 🎓 Informatics Graduate from UPN Veteran Jawa Timur
 - 💼 Data Analyst at Mazuta Group (E-commerce & Business Data Enthusiast)
@@ -20,12 +21,12 @@
 - **TikTok Product Scraper**  
   Scraping dan analisis data produk TikTok Shop Indonesia untuk insight tren penjualan.  
   _Python, BeautifulSoup, Pandas_  
-  [View Repo](https://github.com/dewarakaks)
+  [View Repo](https://github.com/dewarakaks/TikTok-Product-Scraper-with-Selenium-and-Excel-Input)
 
 - **Excel File Merger**  
   Otomatisasi penggabungan file Excel untuk efisiensi reporting e-commerce.  
   _Python, openpyxl, Pandas_  
-  [View Repo](https://github.com/dewarakaks)
+  [View Repo](https://github.com/dewarakaks/Excel-File-Merger)
 
 - **Tokopedia vs Shopee Sold Quantity Monitor**  
   Analisis kuantitas produk terjual antar marketplace untuk competitor benchmarking.  
@@ -44,8 +45,13 @@
 - Analyze consumer and competitor behavior in e-commerce marketplaces
 - Build dashboards and track KPIs for company growth
 
-## 📬 Let's Connect!
-- [LinkedIn](https://id.linkedin.com/in/dewa-raka-krisna-saputra-6566501b5)
-- Email: dewarakaks@gmail.com
+## 📊 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dewarakaks&show_icons=true&theme=radical)
+
+## 📬 Let's Connect!
+
+💬 **Ready to collaborate?** Let's turn your data challenges into success stories!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dewarakaks/)
+- ✉️ **Email**: dewarakaks@gmail.com
