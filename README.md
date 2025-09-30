@@ -4,7 +4,7 @@
 
 - 🎓 Informatics Graduate from UPN Veteran Jawa Timur
 - 💼 Data Analyst at Mazuta Group (E-commerce & Business Data Enthusiast)
-- 🔎 Passionate about Data Analysis, Data Science & Automation
+- 🔎 Passionate about Data Analysis, Data Engineer & Automation
 - 🕹️ Python • SQL • Excel • Data Visualization
 - 📍 Surabaya, Indonesia
 
